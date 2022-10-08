@@ -1,6 +1,0 @@
-Chaque simulation a une sous classe de l'hiérarchie montré dans le rapport , un fichier de simulation et  un fichier test  
-
-par exemple Bird est sous classe de Boid 
-            Birds est sous classe de Boids
-            fichier de simulation BirdsSimulator 
-            et un ficher test TestBirdsSimulator 
